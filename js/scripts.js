@@ -1,9 +1,9 @@
 // scripts.js
 
-// Żaden element skryptu nie zadziała var name = prompt('Enter your name');
+var name = prompt('Enter your name');
 // alert('Hello, ' + name);
-/* ten element wyświetli informację w konsoli
-
+/* poniższyen element wyświetli informację w konsoli
+*/
 	console.log('Hello, ' + name);
 
-	*/
+	
